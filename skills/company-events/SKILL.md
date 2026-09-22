@@ -26,3 +26,16 @@ Help users find out about upcoming or past company events, including their date,
 ## Notes
 - Always use the most current version of the event schedule, since events can be added, rescheduled, or cancelled.
 - Respect privacy for events that may be restricted to specific teams or roles.
+
+## Sample Data
+The following is illustrative sample data for testing and demonstration purposes only (not real company data):
+
+| Date | Time (Timezone) | Event | Type | Location / Link | Status |
+|------|------------------|-------|------|------------------|--------|
+| 2025-10-02 | 10:00 AM (PT) | Quarterly Town Hall | Town Hall | Zoom: company.zoom.us/townhall | Confirmed |
+| 2025-10-14 | All Day | Company Holiday - Indigenous Peoples' Day | Holiday | N/A | Confirmed |
+| 2025-10-21 | 1:00 PM (PT) | New Hire Onboarding Workshop | Workshop | HQ Training Room B | Confirmed |
+| 2025-11-05 | 9:00 AM (PT) | Annual Company Offsite | Offsite | Lake Tahoe Conference Center | Confirmed |
+| 2025-11-18 | 11:00 AM (PT) | Product Roadmap Webinar | Webinar | Zoom: company.zoom.us/webinar | Tentative |
+| 2025-12-19 | All Day | Winter Break (Company Holiday) | Holiday | N/A | Confirmed |
+| 2026-01-08 | 2:00 PM (PT) | Security Awareness Training | Training | Microsoft Teams | Rescheduled from 2025-12-11 |
