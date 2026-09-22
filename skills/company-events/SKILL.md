@@ -28,14 +28,17 @@ Help users find out about upcoming or past company events, including their date,
 - Respect privacy for events that may be restricted to specific teams or roles.
 
 ## Sample Data
-The following is illustrative sample data for testing and demonstration purposes only (not real company data):
+The following is illustrative sample data for **Nimbus Robotics Inc.**, a fictional example company, used for testing and demonstration purposes only (not real company data):
 
-| Date | Time (Timezone) | Event | Type | Location / Link | Status |
-|------|------------------|-------|------|------------------|--------|
-| 2025-10-02 | 10:00 AM (PT) | Quarterly Town Hall | Town Hall | Zoom: company.zoom.us/townhall | Confirmed |
-| 2025-10-14 | All Day | Company Holiday - Indigenous Peoples' Day | Holiday | N/A | Confirmed |
-| 2025-10-21 | 1:00 PM (PT) | New Hire Onboarding Workshop | Workshop | HQ Training Room B | Confirmed |
-| 2025-11-05 | 9:00 AM (PT) | Annual Company Offsite | Offsite | Lake Tahoe Conference Center | Confirmed |
-| 2025-11-18 | 11:00 AM (PT) | Product Roadmap Webinar | Webinar | Zoom: company.zoom.us/webinar | Tentative |
-| 2025-12-19 | All Day | Winter Break (Company Holiday) | Holiday | N/A | Confirmed |
-| 2026-01-08 | 2:00 PM (PT) | Security Awareness Training | Training | Microsoft Teams | Rescheduled from 2025-12-11 |
+| Date | Time (Timezone) | Event | Type | Organizer | Location / Link | Audience | Status |
+|------|------------------|-------|------|-----------|------------------|----------|--------|
+| 2025-10-02 | 10:00 AM (PT) | Nimbus Robotics Q4 Quarterly Town Hall | Town Hall | Priya Subramaniam, CEO | Zoom: nimbusrobotics.zoom.us/townhall | All Employees | Confirmed |
+| 2025-10-14 | All Day | Company Holiday – Indigenous Peoples' Day | Holiday | People Operations | N/A (Offices Closed) | All Employees | Confirmed |
+| 2025-10-21 | 1:00 PM–4:00 PM (PT) | New Hire Onboarding Workshop – Cohort 14 | Workshop | Talent & Development Team | Nimbus HQ, Building A, Training Room B (San Jose, CA) | New Hires | Confirmed |
+| 2025-11-05 | 9:00 AM–5:00 PM (PT) | Nimbus Robotics Annual Company Offsite | Offsite | Executive Team | Lake Tahoe Conference Center, 210 Ski Run Blvd, South Lake Tahoe, CA | All Employees | Confirmed |
+| 2025-11-18 | 11:00 AM (PT) | 2026 Product Roadmap Webinar – Autonomous Fleet Series | Webinar | Marcus Webb, VP of Product | Zoom: nimbusrobotics.zoom.us/webinar/roadmap2026 | Customers & Partners | Tentative |
+| 2025-12-04 | 3:00 PM (PT) | Engineering All-Hands – Sprint 42 Demo Day | Team Meeting | Elena Fischer, VP of Engineering | Microsoft Teams: Nimbus Eng All-Hands | Engineering Org | Confirmed |
+| 2025-12-19 | All Day | Winter Break (Company Holiday) | Holiday | People Operations | N/A (Offices Closed Dec 19 – Jan 2) | All Employees | Confirmed |
+| 2026-01-08 | 2:00 PM–3:00 PM (PT) | Annual Security Awareness Training | Training | Devon Ashworth, CISO | Microsoft Teams: Nimbus Security Training | All Employees | Rescheduled from 2025-12-11 |
+| 2026-01-22 | 10:00 AM (ET) | East Coast Regional Sales Kickoff | Sales Kickoff | Renee Castillo, VP of Sales | Nimbus Robotics NYC Office, 5th Floor Atrium | Sales & Customer Success | Confirmed |
+| 2026-02-14 | All Day | RoboCon 2026 – Nimbus Robotics Booth & Keynote | Conference | Marketing & Product Teams | Moscone Center, San Francisco, CA | Public / Industry | Confirmed |
