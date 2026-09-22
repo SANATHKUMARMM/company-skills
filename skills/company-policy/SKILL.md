@@ -26,3 +26,16 @@ Help users understand and navigate the company's official policies (HR, leave, c
 ## Notes
 - Policies may change over time; always prefer the most recently updated source available.
 - Sensitive HR matters (e.g., disciplinary actions, personal leave details) should be handled with discretion and directed to HR when appropriate.
+
+## Sample Data
+The following is illustrative sample data for testing and demonstration purposes only (not real company data):
+
+| Policy | Category | Summary | Last Updated | Owner |
+|--------|----------|---------|--------------|-------|
+| Paid Time Off (PTO) | Leave | Employees accrue 15 PTO days per year, up to a max carryover of 5 days. | 2025-01-10 | HR Department |
+| Remote Work Policy | Work Arrangement | Employees may work remotely up to 3 days per week with manager approval. | 2025-02-14 | People Operations |
+| Code of Conduct | Conduct | All employees must act with integrity, respect, and avoid conflicts of interest. | 2024-11-01 | Legal & Compliance |
+| Expense Reimbursement | Finance | Business expenses under $75 do not require pre-approval; receipts required for all claims. | 2025-03-05 | Finance Team |
+| IT Security & Acceptable Use | IT/Security | Employees must use company-issued devices with MFA enabled for all internal systems. | 2025-04-20 | IT Security Team |
+| Parental Leave | Leave | Eligible employees receive 12 weeks of paid parental leave. | 2024-12-01 | HR Department |
+| Anti-Harassment Policy | Conduct | Zero tolerance for harassment or discrimination; report incidents to HR immediately. | 2025-01-25 | HR & Legal |
